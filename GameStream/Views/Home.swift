@@ -131,7 +131,7 @@ struct SubModuleHome: View {
                         watchGame(name: "The Witcher")
                     }, label: {
                         VStack(spacing: 0) {
-                            Image("The Witcher")
+                            Image("TheWitcher")
                                 .resizable()
                                 .scaledToFill()
                             
